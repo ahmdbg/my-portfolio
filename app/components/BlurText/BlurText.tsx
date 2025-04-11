@@ -1,8 +1,7 @@
 /*
 	Installed from https://reactbits.dev/ts/tailwind/
 */
-
-'use client'
+'use client';
 
 import { useRef, useEffect, useState } from 'react';
 import { useSprings, animated, SpringValue } from '@react-spring/web';
