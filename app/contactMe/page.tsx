@@ -1,5 +1,3 @@
-import Image from "next/image";
-import Link from "next/link";
 import { Mail, Phone, MapPin, Send } from "lucide-react";
 
 import SplashCursor from "../components/SplashCursor/SplashCursor";

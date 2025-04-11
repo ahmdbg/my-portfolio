@@ -187,7 +187,7 @@ export default function Home() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 px-4">
-            {Project.map((project, index) => (
+            {Project.map((project) => (
               <SpotlightCard
                 key={project.title}
                 className="custom-spotlight-card w-full p-4 transform hover:scale-105 transition-all duration-300"

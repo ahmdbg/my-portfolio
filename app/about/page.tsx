@@ -10,7 +10,7 @@ import SplitText from '../components/SplitText/SplitText';
 import GradientText from '../components/GradientText/GradientText';
 import BlurText from '../components/BlurText/BlurText';
 import ScrollVelocity from '../components/ScrollVelocity/ScrollVelocity';
-import { Github, Linkedin, Mail, Download, Instagram } from 'lucide-react';
+import { Github, Mail, Instagram } from 'lucide-react';
 import Footer from '../components/Footer/Footer';
 import SplashCursor from '../components/SplashCursor/SplashCursor';
 import { Swiper, SwiperSlide } from 'swiper/react';
